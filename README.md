@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Ali Azizi</h1>
+<h3 align="center">A computer engineering student from Iran</h3>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliazizii&show_icons=true&locale=en" alt="aliazizii" /></p>
+
+
+
+
 <!--
 **aliazizii/aliazizii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
